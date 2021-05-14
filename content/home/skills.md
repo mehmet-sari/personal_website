@@ -16,31 +16,25 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 70%
-  icon: r-project
+- icon: r-project
   icon_pack: fab
   name: R
 - icon: python
   icon_pack: fab
   name: Python
-- description: 100%
-  icon: chart-line
+- icon: chart-line
   icon_pack: fas
   name: Statistics/Econometrics
-- description: 80%
-  icon: machine
+- icon: machine
   icon_pack: custom
   name: Machine Learning
-- description: 100%
-  icon: chart-line
+- icon: chart-line
   icon_pack: fas
   name: Causal Inference
-- description: 90%
-  icon: stata
+- icon: stata
   icon_pack: custom
   name: Stata
-- description: 70%
-  icon: sql
+- icon: sql
   icon_pack: custom
   name: SQL
 

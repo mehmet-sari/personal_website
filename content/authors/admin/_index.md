@@ -9,6 +9,12 @@ education:
   - course: MS in Economics
     institution: Clemson University
     year: 2015
+<<<<<<< HEAD
+=======
+  - course: BA in Economics 
+    institution: Fatih University (Currently Istanbul University)
+    year: 2009
+>>>>>>> e4202502c495a2982a1d48d43c02973774134bc0
 email: ""
 highlight_name: false
 interests:

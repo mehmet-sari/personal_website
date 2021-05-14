@@ -5,8 +5,13 @@
 
 # Appearance
 
+<<<<<<< HEAD
 theme: dark
 day_night: light
+=======
+theme: earth
+day_night: false
+>>>>>>> e4202502c495a2982a1d48d43c02973774134bc0
 font: ''
 font_size: M
 
@@ -14,9 +19,15 @@ font_size: M
 
 site_type: Person
 local_business_type: ''
+<<<<<<< HEAD
 org_name: 'George Mason University'
 description: 'PhD Candidate'
 twitter: 'mehmet_sari'
+=======
+org_name: ''
+description: ''
+twitter: ''
+>>>>>>> e4202502c495a2982a1d48d43c02973774134bc0
 
 # Contact (edit or remove options as required)
 
@@ -46,7 +57,11 @@ main_menu:
   align: r
   show_logo: true
   show_language: false
+<<<<<<< HEAD
   show_day_night: true
+=======
+  show_day_night: false
+>>>>>>> e4202502c495a2982a1d48d43c02973774134bc0
   show_search: true
   highlight_active_link: true
 

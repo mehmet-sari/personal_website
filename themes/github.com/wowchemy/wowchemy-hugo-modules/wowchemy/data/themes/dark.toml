@@ -5,8 +5,12 @@ name = "Dark"
 light = false
 
 # Primary
+<<<<<<< HEAD
 # primary = "hsl(339, 90%, 68%)"
 primary = "hsl(64, 4%, 33%)"
+=======
+primary = "hsl(339, 90%, 68%)"
+>>>>>>> e4202502c495a2982a1d48d43c02973774134bc0
 
 # Menu
 menu_primary = "rgb(20, 22, 34)"

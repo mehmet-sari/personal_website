@@ -1,9 +1,9 @@
----
+--
 bio: I am a Ph.D. candidate at George Mason University and a graduate research assistant at the Center for Health Policy Research and Ethics (CHPRE). My research areas are at the intersection of health economics, health policy and industrial organization. My current research, which is also my dissertation, focuses on the social determinants of health and the effect of health care market structure on health services and is funded by Robert Woods Johnson Foundation and Altarum Institute.
   matter.
 education:
   courses:
-  - course: PhD in Health Services Research (Health Economics and Policy Track)
+  - course: PhD in Health Services Research (with Health Economics and Policy Track)
     institution: George Mason University
     year: 2021 (Expected in August)
   - course: MS in Economics

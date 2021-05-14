@@ -1,0 +1,3 @@
+library(blogdown)
+install_hugo()
+blogdown::new_site(theme = "wowchemy/starter-academic", theme_example = TRUE)

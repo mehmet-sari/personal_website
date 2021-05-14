@@ -1,5 +1,6 @@
 [build]
-  command = "hugo --gc --minify -b $URL"
+  # command = "hugo --gc --minify -b $URL"
+  command = CI= npm run build
   publish = "public"
 
 [build.environment]

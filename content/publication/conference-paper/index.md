@@ -6,7 +6,7 @@ date: "2020-07-01T00:00:00Z"
 doi: ""
 featured: true
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/rIymmvOq3P8)'
   focal_point: ""
   preview_only: false
 links:

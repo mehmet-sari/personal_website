@@ -51,7 +51,7 @@ warnings.filterwarnings('ignore')
 %load_ext rpy2.ipython
 ```
 
-#### Summary of the Data
+#### Data Summary
 The next two outputs show the data and summary statistics of uninsured rate, median income level, and unemployment rate.
 
 

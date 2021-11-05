@@ -5,7 +5,7 @@ education:
   courses:
   - course: PhD in Health Services Research (with Health Economics and Policy Track)
     institution: George Mason University
-    year: 2021 (Expected in August)
+    year: 2021
   - course: MS in Economics
     institution: Clemson University
     year: 2015
@@ -15,12 +15,11 @@ interests:
 - Health Economics and Policy
 - Payment Models in Healthcare
 - Social Determinant of Health
-- Industrial Organization
-- Structural Econometrics
+-  Structural Econometrics
 organizations:
 - name: George Mason University
   url: https://www.gmu.edu/
-role: PhD Candidate
+role: Post-Doc
 social:
 - icon: envelope
   icon_pack: fas
@@ -38,6 +37,6 @@ superuser: true
 title: Mehmet SARI
 ---
 
-I am a PhD candidate at George Mason University and a graduate research assistant at the Center for Health Policy Research and Ethics (CHPRE). My research areas are at the intersection of health economics, health policy and industrial organization. My current research, which is also my dissertation, focuses on the social determinants of health and the effect of health care market structure on health services and is funded by Robert Woods Johnson Foundation and Altarum Institute.
+I am a health services researcher and economist. My research areas are at the intersection of health economics, health policy and industrial organization. My current research focuses on the payment systems and the health care systems boundaries in the US. 
 
 ---

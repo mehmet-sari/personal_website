@@ -1,41 +1,26 @@
-```python
-from IPython.display import HTML
-
-HTML('''<script>
-code_show=true; 
-function code_toggle() {
- if (code_show){
- $('div.input').hide();
- } else {
- $('div.input').show();
- }
- code_show = !code_show
-} 
-$( document ).ready(code_toggle);
-</script>
-<form action="javascript:code_toggle()"><input type="submit" value="Click here to toggle on/off the raw code."></form>''')
-```
-
-
-
-
-<script>
-code_show=true; 
-function code_toggle() {
- if (code_show){
- $('div.input').hide();
- } else {
- $('div.input').show();
- }
- code_show = !code_show
-} 
-$( document ).ready(code_toggle);
-</script>
-<form action="javascript:code_toggle()"><input type="submit" value="Click here to toggle on/off the raw code."></form>
+---
+authors:
+- admin
+categories: 
+- Blog
+date: "2021-07-21T00:00:00Z"
+image:
+  caption: ""
+  focal_point: ""
+lastMod: "2021-07-22T00:00:00Z"
+projects: []
+subtitle: Difference-in-Differences Application with Recent Estimators
+summary: Applying recent DID estimators to health care data
+tags: 
+- Python
+- R Code
+- Econometrics
+- Causal Inference
+title: Empirical Practice of Difference-in-Differences
+---
 
 
-
-## Empirical Practice of Difference-in-Differences 
+## Empirical Practice of Difference-in-Differences
 
 ### Callaway and Sant'Anna(2020)
 

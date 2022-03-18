@@ -16,13 +16,13 @@ interests:
 - Social Determinant of Health
 -  Structural Econometrics
 organizations:
-- name: George Mason University
-  url: https://www.gmu.edu/
-role: Post-Doc
+- name: KNG Health Consulting, LLC
+  url: https://www.knghealth.com/
+role: Senior Research Associate
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:msari@gmu.edu
+  link: mailto:mehmet.sari@knghealth.com
 - display:
     header: true
   icon: twitter
